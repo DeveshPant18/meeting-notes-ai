@@ -1,0 +1,73 @@
+{
+  "readable_transcript": "[SPEAKER_00]: Hello, everyone. My name is Tom. Today, I have with me two of my awesome colleagues, and we can start by getting them introduced, Sameer.\n[SPEAKER_02]: Hey, everyone. This is Sameer, and I help in articulating the value provided by our open platform and the plethora of use cases that can be supported. Let's go to the next one.\n[SPEAKER_01]: Hi, everyone. My name is Will, and I talk about how do we use the APIs, how do we integrate them, how do we deploy them go live in our production applications?\n[SPEAKER_00]: Awesome. Thanks, guys. Today, the topic is about Ring Central's AI APIs around conversational intelligence. Let's get started. Question for Sameer. AI is very highly used acronym over the past 45 years especially. How do you understand it in context of conversations? What capabilities does it bring, and how easy it is to use?\n[SPEAKER_02]: Very well, Tom. You hit the nail on the head. Yes. AI is a very, very highly used acronym for last, I would say five to six years. But when you think about AI in context of conversations, like the first thing that comes to the mind is speech to text capability or text to speech capabilities. But I think it's much, much beyond that. For example, you can do a lot of interaction analysis, sentiment analysis, and emotion analysis with these APIs that we offer. It means if you are in a contact center, kind of a use case where supervisor needs to understand what kind of calls are coming in, from all the people around the world, to understand the sentiment level, they can simply have a pointer 0 to 5 to figure out the calls coming in, fall in what range to understand the sentiment of those calls. That's one of the biggest, biggest powers that we give to our AI APIs.\n[SPEAKER_00]: Wow. That is so interesting. Next question I have here is for Will. What are the different set of APIs that we support today? How can you throw some light on the three of the top most used conversational intelligence API use cases across our portfolio of API products?\n[SPEAKER_01]: Yeah. Great question. We support basically APIs at two categories. One, their audio APIs, and the other set of APIs are based on text. The three most popular APIs are, you can say the speech to text because even audio gets converted into text, and then the AI engine gives you the transcript of that. It can give you transcript with punctuation such as comma so that you can turn it into a report. Another API very popular is the Speaker Diaryization API. For example, there are multiple people here in this meeting, and the API will tell you which speaker is speaking at which point of time, who spoke, what essentially. Then there is another API that does speaker identification. This is similar to Speaker Diaryization API. It detects who is speaking, and if the AI model has been trained by the speaker's voice, it can tell you who the person is. If you provide a label such as the name of the person, then it will tell you, for example, will is speaking at this time. Otherwise, it will just say person A, person B, person C.\n[SPEAKER_00]: That's great. Well, Samir, well, thank you so much again for explaining the why's and the how's of our Essentials Open Platform, and specifically our Intelligent APIs. This program is in beta right now. We will soon be working toward releasing it generally available to the public. So please stay tuned, and we look forward to getting some feedback from you.",
+  "diarized_segments": [
+    {
+      "start": 0.0,
+      "end": 9.48,
+      "text": "Hello, everyone. My name is Tom. Today, I have with me two of my awesome colleagues, and we can start by getting them introduced, Sameer.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9.48,
+      "end": 22.0,
+      "text": "Hey, everyone. This is Sameer, and I help in articulating the value provided by our open platform and the plethora of use cases that can be supported. Let's go to the next one.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 22.0,
+      "end": 37.0,
+      "text": "Hi, everyone. My name is Will, and I talk about how do we use the APIs, how do we integrate them, how do we deploy them go live in our production applications?",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 37.0,
+      "end": 62.64,
+      "text": "Awesome. Thanks, guys. Today, the topic is about Ring Central's AI APIs around conversational intelligence. Let's get started. Question for Sameer. AI is very highly used acronym over the past 45 years especially. How do you understand it in context of conversations? What capabilities does it bring, and how easy it is to use?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 62.64,
+      "end": 120.12,
+      "text": "Very well, Tom. You hit the nail on the head. Yes. AI is a very, very highly used acronym for last, I would say five to six years. But when you think about AI in context of conversations, like the first thing that comes to the mind is speech to text capability or text to speech capabilities. But I think it's much, much beyond that. For example, you can do a lot of interaction analysis, sentiment analysis, and emotion analysis with these APIs that we offer. It means if you are in a contact center, kind of a use case where supervisor needs to understand what kind of calls are coming in, from all the people around the world, to understand the sentiment level, they can simply have a pointer 0 to 5 to figure out the calls coming in, fall in what range to understand the sentiment of those calls. That's one of the biggest, biggest powers that we give to our AI APIs.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 120.12,
+      "end": 139.72,
+      "text": "Wow. That is so interesting. Next question I have here is for Will. What are the different set of APIs that we support today? How can you throw some light on the three of the top most used conversational intelligence API use cases across our portfolio of API products?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 139.72,
+      "end": 216.79999999999998,
+      "text": "Yeah. Great question. We support basically APIs at two categories. One, their audio APIs, and the other set of APIs are based on text. The three most popular APIs are, you can say the speech to text because even audio gets converted into text, and then the AI engine gives you the transcript of that. It can give you transcript with punctuation such as comma so that you can turn it into a report. Another API very popular is the Speaker Diaryization API. For example, there are multiple people here in this meeting, and the API will tell you which speaker is speaking at which point of time, who spoke, what essentially. Then there is another API that does speaker identification. This is similar to Speaker Diaryization API. It detects who is speaking, and if the AI model has been trained by the speaker's voice, it can tell you who the person is. If you provide a label such as the name of the person, then it will tell you, for example, will is speaking at this time. Otherwise, it will just say person A, person B, person C.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 216.79999999999998,
+      "end": 239.52,
+      "text": "That's great. Well, Samir, well, thank you so much again for explaining the why's and the how's of our Essentials Open Platform, and specifically our Intelligent APIs. This program is in beta right now. We will soon be working toward releasing it generally available to the public. So please stay tuned, and we look forward to getting some feedback from you.",
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "whisper_info": {
+    "language": "en"
+  },
+  "speaker_analysis": {
+    "SPEAKER_00": {
+      "full_text": "Hello, everyone. My name is Tom. Today, I have with me two of my awesome colleagues, and we can start by getting them introduced, Sameer. Awesome. Thanks, guys. Today, the topic is about Ring Central's AI APIs around conversational intelligence. Let's get started. Question for Sameer. AI is very highly used acronym over the past 45 years especially. How do you understand it in context of conversations? What capabilities does it bring, and how easy it is to use? Wow. That is so interesting. Next question I have here is for Will. What are the different set of APIs that we support today? How can you throw some light on the three of the top most used conversational intelligence API use cases across our portfolio of API products? That's great. Well, Samir, well, thank you so much again for explaining the why's and the how's of our Essentials Open Platform, and specifically our Intelligent APIs. This program is in beta right now. We will soon be working toward releasing it generally available to the public. So please stay tuned, and we look forward to getting some feedback from you.",
+      "sentiment": "Positive",
+      "summary": "• The topic of discussion is Ring Central's AI APIs around conversational intelligence\n• AI is a highly used acronym over the past 45 years, and its capabilities and ease of use in conversations are being discussed\n• The different set of APIs supported by Ring Central are being explained, including the top three most used conversational intelligence API use cases\n• The Essentials Open Platform and Intelligent APIs are being discussed, with a program currently in beta and planned for general release soon"
+    },
+    "SPEAKER_02": {
+      "full_text": "Hey, everyone. This is Sameer, and I help in articulating the value provided by our open platform and the plethora of use cases that can be supported. Let's go to the next one. Very well, Tom. You hit the nail on the head. Yes. AI is a very, very highly used acronym for last, I would say five to six years. But when you think about AI in context of conversations, like the first thing that comes to the mind is speech to text capability or text to speech capabilities. But I think it's much, much beyond that. For example, you can do a lot of interaction analysis, sentiment analysis, and emotion analysis with these APIs that we offer. It means if you are in a contact center, kind of a use case where supervisor needs to understand what kind of calls are coming in, from all the people around the world, to understand the sentiment level, they can simply have a pointer 0 to 5 to figure out the calls coming in, fall in what range to understand the sentiment of those calls. That's one of the biggest, biggest powers that we give to our AI APIs.",
+      "sentiment": "Positive",
+      "summary": "• AI is a highly used acronym in the last 5-6 years\n• In the context of conversations, AI is often associated with speech to text or text to speech capabilities\n• However, AI can do much more, such as interaction analysis, sentiment analysis, and emotion analysis\n• AI APIs can be used in contact centers to analyze calls and understand sentiment levels\n• This can help supervisors understand the sentiment of calls and categorize them on a scale of 0 to"
+    },
+    "SPEAKER_01": {
+      "full_text": "Hi, everyone. My name is Will, and I talk about how do we use the APIs, how do we integrate them, how do we deploy them go live in our production applications? Yeah. Great question. We support basically APIs at two categories. One, their audio APIs, and the other set of APIs are based on text. The three most popular APIs are, you can say the speech to text because even audio gets converted into text, and then the AI engine gives you the transcript of that. It can give you transcript with punctuation such as comma so that you can turn it into a report. Another API very popular is the Speaker Diaryization API. For example, there are multiple people here in this meeting, and the API will tell you which speaker is speaking at which point of time, who spoke, what essentially. Then there is another API that does speaker identification. This is similar to Speaker Diaryization API. It detects who is speaking, and if the AI model has been trained by the speaker's voice, it can tell you who the person is. If you provide a label such as the name of the person, then it will tell you, for example, will is speaking at this time. Otherwise, it will just say person A, person B, person C.",
+      "sentiment": "Positive",
+      "summary": "• We support two categories of APIs: audio APIs and text-based APIs\n• The three most popular APIs are speech to text, Speaker Diaryization API, and speaker identification API\n• Speech to text API converts audio into text and provides a transcript with punctuation\n• Speaker Diaryization API identifies which speaker is speaking at a specific point in time\n• Speaker identification API detects who is speaking and can identify the person if the AI model has been trained by the speaker's voice"
+    }
+  }
+}
